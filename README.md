@@ -1,4 +1,4 @@
-# HAMOYE----STAGE-C
+# iMDb Movies - Data Scraping
 
 This project is a project that involved the scraping of movie dat from the popular imdb website. 
 The beautifulsoup library was useful in executing the web scraping. 
